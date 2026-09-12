@@ -1,0 +1,40 @@
+{
+  "entity.thestalwart.swolager.hurt": {
+  "subtitle": "subtitles.thestalwart.swolager_hurt",
+  "sounds": [
+    "thestalwart:entity/swolager_hurt1",
+    "thestalwart:entity/swolager_hurt2",
+    "thestalwart:entity/swolager_hurt3"
+  ]
+},
+  "entity.thestalwart.swolager.death": {
+  "subtitle": "subtitles.thestalwart.swolager_death",
+  "sounds": [
+    "thestalwart:entity/swolager_death1",
+    "thestalwart:entity/swolager_death2"
+  ]
+},
+    "entity.thestalwart.swolager.ambient": {
+      "subtitle": "subtitles.thestalwart.swolager_ambient",
+      "sounds": [
+        "thestalwart:entity/swolager_ambient1",
+        "thestalwart:entity/swolager_ambient2",
+        "thestalwart:entity/swolager_ambient3"
+      ]
+  },
+  "entity.thestalwart.swolager.step": {
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      "thestalwart:entity/swolager_step1",
+      "thestalwart:entity/swolager_step2",
+      "thestalwart:entity/swolager_step3",
+      "thestalwart:entity/swolager_step4"
+    ]
+  },
+  "entity.thestalwart.swolager.hit": {
+    "subtitle": "subtitles.thestalwart.swolager_hit",
+    "sounds": [
+      "thestalwart:entity/swolager_hit"
+    ]
+  }
+}

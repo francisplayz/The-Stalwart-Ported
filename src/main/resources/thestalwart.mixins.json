@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.francis.the_stalwart.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "thestalwart.refmap.json",
+  "mixins": [
+    "SwolagerMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
